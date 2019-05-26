@@ -1,4 +1,4 @@
-FROM vanlog/docker-tidyverse:R-3.4.4
+FROM vanlog/tidyverse:R-3.4.4
 
 MAINTAINER Andrea Melloncelli "andrea.melloncelli@vanlog.it"
 
